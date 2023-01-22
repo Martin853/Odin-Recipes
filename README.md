@@ -1,3 +1,3 @@
-# odin-recipes
+# Odin-Recipes
 
-The project will be about creating a recipes site and the skill that i will be using is html.
+Project for The Odin Project about creating a recipes website.
